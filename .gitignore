@@ -1,3 +1,5 @@
 /paddy-disease-classification
 /us-patent-phrase-to-phrase-matching
+/models
+kernel-metadata.json
 *.zip
